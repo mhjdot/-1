@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>산책할 때 듣기 좋은 노래</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 <body class="nightwalk">
 
@@ -14,7 +14,7 @@
 
         <!-- 1. 물고기 -->
         <div class="song-item">
-            <img src="images/fish.jpg" class="album">
+            <img src="./images/fish.jpg" alt="물고기 앨범 이미지" class="album">
             <div class="info">
                 <h2>물고기</h2>
                 <p>백예린</p>
@@ -24,7 +24,7 @@
 
         <!-- 2. Big Void -->
         <div class="song-item">
-            <img src="images/bigvoid.jpg" class="album">
+            <img src="./images/bigvoid.jpg" alt="Big void 앨범 이미지" class="album">
             <div class="info">
                 <h2>Big void</h2>
                 <p>실리카겔</p>
@@ -34,7 +34,7 @@
 
         <!-- 3. wish -->
         <div class="song-item">
-            <img src="images/wish.jpg" class="album">
+            <img src="./images/wish.jpg" alt="wish 앨범 이미지" class="album">
             <div class="info">
                 <h2>wish</h2>
                 <p>오월오일</p>
